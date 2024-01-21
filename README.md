@@ -11,7 +11,6 @@ This project focuses on building a machine learning model for detecting fraudule
 5. [Exploratory Data Analysis (EDA)](#eda)
 6. [Feature Engineering](#feature-engineering)
 7. [Additional Visualizations](#additional-visualizations)
-
 8. [Results](#results)
 9. [Next Steps](#next-steps)
 
@@ -22,8 +21,6 @@ This project aims to develop a machine learning model for detecting fraudulent a
 The project is structured as follows:
 - `notebooks/`: Jupyter notebooks for different stages of the project.
 - `src/`: Python scripts for reusable code.
-- `data/`: Directory for storing datasets.
-- `reports/`: Documentation, reports, and visualizations.
 
 ## Data Collection
 - **Dataset:** [Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud)
