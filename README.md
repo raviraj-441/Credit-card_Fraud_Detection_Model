@@ -1,5 +1,4 @@
 # Credit Card Fraud Detection Project
-#Author-Ravirajsingh Sodha
 
 ## Overview
 This project focuses on building a machine learning model for detecting fraudulent activities in credit card transactions.
